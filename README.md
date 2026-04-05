@@ -129,61 +129,38 @@ Screenshots below show API testing using Swagger UI and Postman.
 
 ### 1. Swagger UI Overview
 
-(Add screenshot of /docs page)
+
+<img width="1814" height="862" alt="image" src="https://github.com/user-attachments/assets/f327348c-ddbd-47b4-82c6-04eead25675b" />
+
 
 ---
 
 ### 2. Login Successful
+<img width="979" height="777" alt="image" src="https://github.com/user-attachments/assets/7101eb01-4628-4af6-8dec-f374c5040ca9" />
 
-(Add screenshot showing JWT token response)
 
 ---
 
 ### 3. Get Records
 
-(Add screenshot of GET /records response)
+<img width="979" height="721" alt="image" src="https://github.com/user-attachments/assets/a4e8a40b-639e-45d4-a241-eb64396ed1a9" />
+
 
 ---
 
 ### 4. Create Record
 
-(Add screenshot of POST /records)
+<img width="979" height="731" alt="image" src="https://github.com/user-attachments/assets/5088fb7b-0484-4b55-9afc-d981f49f3811" />
+
 
 ---
 
-### 5. Update Record
-
-(Add screenshot of PATCH /records/{id})
-
----
 
 ### 6. Delete Record
 
-(Add screenshot of DELETE /records/{id})
+<img width="979" height="698" alt="image" src="https://github.com/user-attachments/assets/7b0de1ed-7a08-41d9-bd24-255d38f4f010" />
 
----
 
-### 7. Filtering Records
-
-(Add screenshot of /records?type=income or category filter)
-
----
-
-### 8. Summary API
-
-(Add screenshot of GET /summary response)
-
----
-
-### 9. User Management
-
-(Add screenshot of GET /users or POST /users)
-
----
-
-### 10. Unauthorized Access (RBAC)
-
-(Add screenshot showing 403 Forbidden when a restricted action is attempted)
 
 ---
 
